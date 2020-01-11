@@ -1,6 +1,6 @@
 # LegaBogGame-with-Phaser3+JavaScript
 Созданная игра, с использованием Phaser3 + JavaScript
-![image](https://user-images.githubusercontent.com/44378669/72206660-b3414680-34a1-11ea-89ca-cc989bc5b37f.png)
+![PhaserLogo](https://user-images.githubusercontent.com/44378669/72206710-192dce00-34a2-11ea-9a59-c0db80baf4b6.png)
 -----------------------------------------------------
 1. Необходимо скачать и распаковать PhaserEditor2D.
 -----------------------------------------------------
