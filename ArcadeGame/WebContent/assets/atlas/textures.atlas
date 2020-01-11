@@ -1,0 +1,323 @@
+{
+  "version": 3,
+  "files": [
+    "Design/coin.png",
+    "Design/enemy.png",
+    "Design/player.png",
+    "Design/wall.png",
+    "WebContent/Dimaresult.png",
+    "WebContent/Leharesult.png",
+    "WebContent/imgonline-com-ua-Transparent-backgr-YpPhVdatSYmow.png",
+    "WebContent/imgonline-com-ua-Transparent-backgr-Yw3JsYWGwMx.png",
+    "WebContent/assets/cavebackground.png",
+    "Design/player2.png",
+    "Design/player3.png",
+    "Design/Wall2.jpg"
+  ],
+  "settings": {
+    "pot": false,
+    "paddingX": 2,
+    "paddingY": 2,
+    "edgePadding": true,
+    "duplicatePadding": false,
+    "rotation": false,
+    "minWidth": 16,
+    "minHeight": 16,
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "square": false,
+    "stripWhitespaceX": true,
+    "stripWhitespaceY": true,
+    "alphaThreshold": 0,
+    "filterMin": "Nearest",
+    "filterMag": "Nearest",
+    "wrapX": "ClampToEdge",
+    "wrapY": "ClampToEdge",
+    "format": "RGBA8888",
+    "alias": true,
+    "outputFormat": "png",
+    "jpegQuality": 0.8999999761581421,
+    "ignoreBlankImages": true,
+    "fast": false,
+    "debug": false,
+    "silent": false,
+    "combineSubdirectories": false,
+    "flattenPaths": false,
+    "premultiplyAlpha": false,
+    "useIndexes": false,
+    "bleed": true,
+    "limitMemory": false,
+    "grid": false,
+    "atlasExtension": ".atlas",
+    "multiatlas": true,
+    "includeNumberOfFolders": 0
+  },
+  "pages": [
+    {"frames": [
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 590,
+          "w": 428,
+          "h": 428
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 428,
+          "h": 428
+        },
+        "sourceSize": {
+          "w": 428,
+          "h": 428
+        },
+        "name": "Wall2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 2,
+          "w": 23,
+          "h": 25
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 23,
+          "h": 25
+        },
+        "sourceSize": {
+          "w": 25,
+          "h": 25
+        },
+        "name": "coin",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 83,
+          "w": 27,
+          "h": 37
+        },
+        "spriteSourceSize": {
+          "x": 7,
+          "y": 1,
+          "w": 27,
+          "h": 37
+        },
+        "sourceSize": {
+          "w": 40,
+          "h": 40
+        },
+        "name": "enemy",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 27,
+          "y": 2,
+          "w": 21,
+          "h": 25
+        },
+        "spriteSourceSize": {
+          "x": 2,
+          "y": 0,
+          "w": 21,
+          "h": 25
+        },
+        "sourceSize": {
+          "w": 25,
+          "h": 25
+        },
+        "name": "player",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 56,
+          "w": 25,
+          "h": 25
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 25,
+          "h": 25
+        },
+        "sourceSize": {
+          "w": 25,
+          "h": 25
+        },
+        "name": "player2",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 29,
+          "w": 25,
+          "h": 25
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 25,
+          "h": 25
+        },
+        "sourceSize": {
+          "w": 25,
+          "h": 25
+        },
+        "name": "player3",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 122,
+          "w": 32,
+          "h": 32
+        },
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "name": "wall",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 2,
+          "y": 156,
+          "w": 386,
+          "h": 432
+        },
+        "spriteSourceSize": {
+          "x": 60,
+          "y": 30,
+          "w": 386,
+          "h": 432
+        },
+        "sourceSize": {
+          "w": 512,
+          "h": 512
+        },
+        "name": "Dimaresult",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 722,
+          "y": 598,
+          "w": 288,
+          "h": 420
+        },
+        "spriteSourceSize": {
+          "x": 109,
+          "y": 0,
+          "w": 288,
+          "h": 420
+        },
+        "sourceSize": {
+          "w": 512,
+          "h": 512
+        },
+        "name": "Leharesult",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 390,
+          "y": 156,
+          "w": 385,
+          "h": 432
+        },
+        "spriteSourceSize": {
+          "x": 60,
+          "y": 30,
+          "w": 385,
+          "h": 432
+        },
+        "sourceSize": {
+          "w": 512,
+          "h": 512
+        },
+        "name": "imgonline-com-ua-Transparent-backgr-YpPhVdatSYmow",
+        "regionIndex": -1
+      },
+      {
+        "trimmed": true,
+        "rotated": false,
+        "frame": {
+          "x": 432,
+          "y": 596,
+          "w": 288,
+          "h": 422
+        },
+        "spriteSourceSize": {
+          "x": 109,
+          "y": 0,
+          "w": 288,
+          "h": 422
+        },
+        "sourceSize": {
+          "w": 512,
+          "h": 512
+        },
+        "name": "imgonline-com-ua-Transparent-backgr-Yw3JsYWGwMx",
+        "regionIndex": -1
+      }
+    ]},
+    {"frames": [{
+      "trimmed": true,
+      "rotated": false,
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 640,
+        "h": 230
+      },
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 640,
+        "h": 230
+      },
+      "sourceSize": {
+        "w": 640,
+        "h": 230
+      },
+      "name": "cavebackground",
+      "regionIndex": -1
+    }]}
+  ]
+}

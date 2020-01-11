@@ -1,0 +1,31 @@
+{
+  "anims": [
+    {
+      "key": "idle",
+      "frameRate": 24,
+      "frames": [{
+        "key": "textures",
+        "frame": "player"
+      }]
+    },
+    {
+      "key": "walking",
+      "frameRate": 4,
+      "repeat": -1,
+      "frames": [
+        {
+          "key": "textures",
+          "frame": "player2"
+        },
+        {
+          "key": "textures",
+          "frame": "player3"
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "Phaser Editor v2",
+    "contentType": "Phaser v3 Animations"
+  }
+}

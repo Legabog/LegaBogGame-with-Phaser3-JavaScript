@@ -1,0 +1,81 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "55bc8536-d5bc-485b-9b07-35eda9204e48",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "46f23e0a-c7f1-4c5b-b84d-c77eceae58ca",
+        "-type": "Image",
+        "children": [],
+        "variableName": "cavebackground",
+        "variableField": false,
+        "scaleX": 0.7900000214576721,
+        "scaleY": 1.75,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "textures",
+        "textureFrame": "cavebackground"
+      },
+      {
+        "-id": "cf0271bf-d121-4354-87c8-ea5e42172b69",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font2",
+        "variableField": false,
+        "x": 128,
+        "y": 80,
+        "text": "You Win !",
+        "fontAssetKey": "font2",
+        "fontSize": 50
+      },
+      {
+        "-id": "fb013154-6c09-4ab3-8766-4172ce5f26bd",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font",
+        "variableField": false,
+        "x": 96,
+        "y": 256,
+        "text": "Press \" space \" to play again\r\n",
+        "fontAssetKey": "font",
+        "fontSize": 18
+      },
+      {
+        "-id": "986d343d-5d18-42b2-ae04-fce9b6b712fa",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font_2",
+        "variableField": false,
+        "x": 288,
+        "y": 176,
+        "text": "0\r\n",
+        "fontAssetKey": "font",
+        "fontSize": 32
+      },
+      {
+        "-id": "7f530cbb-c37a-4ca5-934b-5d67160105a7",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font_1",
+        "variableField": false,
+        "x": 128,
+        "y": 176,
+        "text": "Score :",
+        "fontAssetKey": "font",
+        "fontSize": 32
+      }
+    ]
+  },
+  "groups": {
+    "-id": "272f530e-032d-4d6d-8e8f-b81c97773bab",
+    "-type": "Groups",
+    "children": []
+  },
+  "snapEnabled": true,
+  "borderWidth": 500,
+  "borderHeight": 400,
+  "methodContextType": "SCENE",
+  "sceneKey": "WinScene"
+}

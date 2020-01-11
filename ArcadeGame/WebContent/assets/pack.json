@@ -1,0 +1,159 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "StartWindow",
+      "url": "assets/scenes/StartWindow.js"
+    },
+    {
+      "type": "bitmapFont",
+      "key": "font",
+      "textureURL": "assets/font.png",
+      "fontDataURL": "assets/font.xml"
+    },
+    {
+      "type": "bitmapFont",
+      "key": "font2",
+      "textureURL": "assets/font2.png",
+      "fontDataURL": "assets/font2.xml"
+    },
+    {
+      "type": "sceneFile",
+      "key": "WinScene",
+      "url": "assets/scenes/WinScene.js"
+    },
+    {
+      "type": "animation",
+      "key": "animations1",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "audio",
+      "key": "d10",
+      "url": ["assets/sounds/Diman/d10.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d8",
+      "url": ["assets/sounds/Diman/d8.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d7",
+      "url": ["assets/sounds/Diman/d7.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d9",
+      "url": ["assets/sounds/Diman/d9.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d4",
+      "url": ["assets/sounds/Diman/d4.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d3",
+      "url": ["assets/sounds/Diman/d3.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d6",
+      "url": ["assets/sounds/Diman/d6.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d5",
+      "url": ["assets/sounds/Diman/d5.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d2",
+      "url": ["assets/sounds/Diman/d2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d1",
+      "url": ["assets/sounds/Diman/d1.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l10",
+      "url": ["assets/sounds/Leha/l10.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l1",
+      "url": ["assets/sounds/Leha/l1.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l5",
+      "url": ["assets/sounds/Leha/l5.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l4",
+      "url": ["assets/sounds/Leha/l4.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l3",
+      "url": ["assets/sounds/Leha/l3.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l2",
+      "url": ["assets/sounds/Leha/l2.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l9",
+      "url": ["assets/sounds/Leha/l9.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l8",
+      "url": ["assets/sounds/Leha/l8.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l7",
+      "url": ["assets/sounds/Leha/l7.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "l6",
+      "url": ["assets/sounds/Leha/l6.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "d11",
+      "url": ["assets/sounds/Diman/d11.mp3"]
+    }
+  ]},
+  "meta": {
+    "generated": "1576760372961",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}

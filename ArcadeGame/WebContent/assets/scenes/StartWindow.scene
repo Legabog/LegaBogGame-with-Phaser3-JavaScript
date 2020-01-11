@@ -1,0 +1,103 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "4b43c6db-00d2-42fc-a28d-dc3385aac02b",
+    "-type": "DisplayList",
+    "children": [
+      {
+        "-id": "b682814f-3652-477b-bcd5-2a421203eae2",
+        "-type": "Image",
+        "children": [],
+        "variableName": "cavebackground",
+        "variableField": false,
+        "scaleX": 0.7900000214576721,
+        "scaleY": 1.75,
+        "originX": 0,
+        "originY": 0,
+        "textureKey": "textures",
+        "textureFrame": "cavebackground"
+      },
+      {
+        "-id": "cb1b4210-a996-42b5-b281-b338372d19a3",
+        "-type": "Image",
+        "children": [],
+        "variableName": "imgonline-com-ua-Transparent-backgr-YpPhVdatSYmow",
+        "variableField": false,
+        "x": 400,
+        "y": 176,
+        "scaleX": 0.6000000238418579,
+        "scaleY": 0.6000000238418579,
+        "angle": -30,
+        "textureKey": "textures",
+        "textureFrame": "imgonline-com-ua-Transparent-backgr-YpPhVdatSYmow"
+      },
+      {
+        "-id": "0ddb9382-b256-4ce2-9129-3cf90084a836",
+        "-type": "Image",
+        "children": [],
+        "variableName": "imgonline-com-ua-Transparent-backgr-Yw3JsYWGwMx",
+        "variableField": false,
+        "x": 128,
+        "y": 208,
+        "scaleX": 0.6000000238418579,
+        "scaleY": 0.6000000238418579,
+        "angle": -5,
+        "textureKey": "textures",
+        "textureFrame": "imgonline-com-ua-Transparent-backgr-Yw3JsYWGwMx"
+      },
+      {
+        "-id": "e14dc217-d49f-47eb-ac94-b4e04445ccaa",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font_1",
+        "variableField": false,
+        "x": 96,
+        "y": 112,
+        "text": "A r c a d e  G a m e\r\n\r\n\r\n\r\n",
+        "fontAssetKey": "font",
+        "fontSize": 25,
+        "align": 1
+      },
+      {
+        "-id": "86328f94-338f-48ef-b364-271e65b8b883",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font",
+        "variableField": false,
+        "x": 112,
+        "y": 224,
+        "text": "press \" space \" to start game\r\n",
+        "fontAssetKey": "font",
+        "fontSize": 18
+      },
+      {
+        "-id": "eccb3b53-fffd-451b-8648-f82cfd9389d0",
+        "-type": "BitmapText",
+        "children": [],
+        "variableName": "font2",
+        "variableField": false,
+        "x": 96,
+        "y": 64,
+        "text": "Aleksey Survive\r\n\r\n\r\n",
+        "fontAssetKey": "font2",
+        "fontSize": 40
+      }
+    ]
+  },
+  "groups": {
+    "-id": "f5154cf0-97c3-4bd0-a072-e518e5dbf0a3",
+    "-type": "Groups",
+    "children": [{
+      "-id": "ec789b6e-f009-4b6a-a2c9-6adff86d40fe",
+      "children": [],
+      "variableName": "group1",
+      "variableField": true
+    }]
+  },
+  "snapEnabled": true,
+  "borderWidth": 500,
+  "borderHeight": 400,
+  "methodContextType": "SCENE",
+  "sceneKey": "StartWindow"
+}
