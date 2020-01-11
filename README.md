@@ -1,4 +1,4 @@
-# LegaBogGame-with-Phaser3-JavaScript
+# LegaBogGame-with-Phaser3+JavaScript
 Созданная игра, с использованием Phaser3 + JavaScript
 -----------------------------------------------------
 1. Необходимо скачать и распаковать PhaserEditor2D.
