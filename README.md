@@ -11,3 +11,7 @@
 3. Запустить PhaserEditor2D и открыть открыть проект из папки workspace.
 ![image](https://user-images.githubusercontent.com/44378669/72206812-4038cf80-34a3-11ea-8984-e363e3c3557b.png)
 -----------------------------------------------------
+`update:`
+## Deployed with `firebase`
+[Link 1](https://myfirstbot-sphara.web.app/)
+[Link 2](https://myfirstbot-sphara.firebaseapp.com/)
